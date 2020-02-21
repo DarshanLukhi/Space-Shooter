@@ -1,3 +1,3 @@
 
 # Space Shooter
-## Devalop in python
+## Develop in python
